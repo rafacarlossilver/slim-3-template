@@ -6,7 +6,10 @@ ini_set('display_errors','On');
 require 'vendor/autoload.php';
 require 'config/constants.php';
 require 'config/config.php';
-$app = new \Slim\App(['settings' => $config]);
+
+
+$container = new \Slim\Container($config);
+$app = new \Slim\App($container);
 include_once "container.php";
 include_once"app/routes.php";
 
