@@ -1,2 +1,2 @@
 # slim-template
-Template do micro-framework slim com: iluminate, PDO e Twig implementados
+Template do micro-framework slim com: Doctrine, PDO e Twig implementados
