@@ -66,7 +66,7 @@ final class Versions
   'symfony/string' => 'v5.3.0@a9a0f8b6aafc5d2d1c116dcccd1573a95153515b',
   'symfony/yaml' => 'v2.8.52@02c1859112aa779d9ab394ae4f3381911d84052b',
   'twig/twig' => 'v3.3.2@21578f00e83d4a82ecfa3d50752b609f13de6790',
-  '__root__' => 'dev-master@eeb93bbac9470a68057808b0d50d4d5ea96eda5d',
+  '__root__' => 'dev-master@34f6c8d1e6dc315642462fe43da52370a6858ff6',
 );
 
     private function __construct()
